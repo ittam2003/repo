@@ -1,7 +1,7 @@
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: CalmMatt <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
@@ -25,4 +25,18 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.1
+Section: Tweaks
+Maintainer: lunotech11
+Depends: firmware 12+
+Architecture: iphoneos-arm
+Filename: ./debs/Legizmo-Release-Internal-1.1-21DA231936i.deb
+Size: 343000
+MD5sum:
+Description: Allow iOS to pair with newer versions of watchOS
+Name: Legizmo
+Author: lunatech11
+Depiction: -
 
