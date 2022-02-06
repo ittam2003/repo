@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: lunotech11
 Depends: firmware 12+
 Architecture: iphoneos-arm
-Filename: ./debs/lunatech11.legizmo_1.1_iphoneos-arm.deb
+Filename: ./debs/lunatech11.legizmo.deb
 Size: 350968
 MD5sum: c38bd4d2eef981a1dc2e6cefd5fc8aab
 Description: Allow iOS to pair with newer versions of watchOS
